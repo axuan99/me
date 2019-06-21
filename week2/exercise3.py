@@ -230,6 +230,7 @@ def loops_7():
     (this is what will print when you test from inside this file)
     This is a hard problem. Use lots of experimentation and draw
     lots of diagrams!
+    HI!
     """
     pyramid = []
     steps = []
