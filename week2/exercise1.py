@@ -13,8 +13,9 @@ print("hello! Let's get started")  # it printed "hello! Let's get started"
 
 some_words = ['what', 'does', 'this', 'line', 'do', '?']
 
+|#for a word in the list 'some_words'
 for word in some_words:
-    print(word)
+    print(word) 
 
 for x in some_words:
     print(x)
@@ -22,8 +23,10 @@ for x in some_words:
 print(some_words)
 
 if len(some_words) > 3:
-    print('some_words contains more than 3 words')
+    print('some_words contains more than 3 words') #if there are more than 3 words 
+    #in the list 'some _words' then print 'some words contains more than 3 words'
 
+#This defines the function 'usefulFunction'
 def usefulFunction():
     """
     You may want to look up what uname does before you guess
